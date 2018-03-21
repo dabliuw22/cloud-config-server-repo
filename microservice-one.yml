@@ -1,2 +1,5 @@
 service:
   message: hello world
+management:
+  security:
+    enabled: false
